@@ -1,0 +1,52 @@
+html{
+  font-size: 8px;
+  font-family: 'Work Sans', sans-serif;
+}
+header span{
+  font-size: 4rem;
+}
+header{
+  height: 8rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.rightside ul{
+  display: flex;
+  font-size: 2rem;
+  justify-content: space-between;
+}
+.rightside li{
+  padding: 1.5rem;
+}
+#colmar{
+  font-weight: bold;
+}
+.banner{
+  background-color: #D8D8D8;
+  display: flex;
+  justify-content: center;
+}
+.bannerimg {
+  border: 2px solid blue;
+  width: 60%;
+}
+.banner img{
+  border: 2px solid black;
+  width: 60%;
+  padding: 4rem 3rem;
+}
+.bannertext h2{
+  font-size: 4rem;
+  font-weight: 800;
+}
+.bannertext span{
+  font-size: 2rem;
+}
+.bannertext{
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
